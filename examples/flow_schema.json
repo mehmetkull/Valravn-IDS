@@ -1,0 +1,13 @@
+{
+  "notice": "Synthetic educational subset; not the production 27-feature schema.",
+  "fields": {
+    "duration_ms": "Bidirectional flow duration in milliseconds",
+    "packets": "Total packets observed in both directions",
+    "bytes": "Total bytes observed in both directions",
+    "syn_packets": "TCP SYN packet count",
+    "destination_port": "Illustrative destination service port",
+    "rf_score": "Example Random Forest attack probability",
+    "tabnet_score": "Example TabNet attack probability for gray-zone flows",
+    "decision": "Final educational cascade decision"
+  }
+}

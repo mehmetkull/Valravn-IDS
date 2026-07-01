@@ -1,0 +1,5 @@
+duration_ms,packets,bytes,syn_packets,destination_port,rf_score,tabnet_score,decision
+240,8,4210,1,443,0.083,,normal_rf
+18,1,60,1,8080,0.211,,insufficient_data
+910,14,9800,4,22,0.781,0.721,attack_tabnet
+74,30,1800,30,80,0.941,,attack_rf
